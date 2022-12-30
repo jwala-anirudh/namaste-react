@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=Na" />
+
+    <title>Namaste React</title>
+
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div id="root">Not rendered</div>
+
+    <!-- DOES NOT WORK if you place here -->
+    <!-- <script>
+      const headingElement = React.createElement(
+        "h1",
+        { id: "title" },
+        "Namaste Everyone!"
+      );
+      const root = ReactDOM.createRoot(document.getElementById("root"));
+      root.render(headingElement);
+    </script> -->
+  </body>
+
+  <!-- Importing React -->
+  <script
+    crossorigin
+    src="https://unpkg.com/react@18/umd/react.development.js"
+  ></script>
+  <script
+    crossorigin
+    src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"
+  ></script>
+
+  <!-- Building first react app -->
+  <script src="./app.js"></script>
+</html>
