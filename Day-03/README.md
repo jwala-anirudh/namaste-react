@@ -1,3 +1,5 @@
+# Day 03 - Namaste React 🙏🏻
+
 # Notes from class
 
 1. `npx` is equivalent to `npm run`
