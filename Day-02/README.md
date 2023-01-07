@@ -30,7 +30,13 @@ NPM dependencies can be added as utility for the project that are used to work w
 
 ### Q) What is Tree Shaking?
 
+Tree shaking is a common concept used in JavaScript to eliminate dead-code from the project that is unused and unnecessary for the final production build.
+
 ### Q) What is Hot Module Replacement?
+
+HMR - Hot Module Replacement is a concept that allows instant reload of the webpage for the code changes that are made and saved. There is no requirement of manual refresh, it comes as part of your bundlers like Webpack and Parcel. Makes development journey easy.
+
+An algorithm called File Watcher that is writtern in C++ is used to acheive this level of hot reload.
 
 ### Q) List down your favourite 5 superpowers of Parcel and describe any 3 of them?
 
