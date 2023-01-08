@@ -1,6 +1,16 @@
 # Day 03 - Namaste React 🙏🏻
 
-# Notes from class
+## Assignment
+
+### Q) What is JSX?
+
+### Q) Superpowers of JSX?
+
+### Q) Role of `type` attribute in script tag? What options can I use there?
+
+### Q) `{TitleComponent}` v/s `{<TitleComponent />}` v/s `{<TitleComponent></TitleComponent>}` in JSX
+
+## Notes from class
 
 1. `npx` is equivalent to `npm run`
 2. (NOT BY DEFAULT) All console.logs are removed; code is cleaned for prod

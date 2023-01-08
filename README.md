@@ -7,3 +7,5 @@ Sharing my notes and projects built as a part of this course. Browse it day-wise
 🌱 [Day 2 Notes](https://github.com/jwala-anirudh/namaste-react/tree/main/Day-02)
 
 🌱 [Day 3 Notes](https://github.com/jwala-anirudh/namaste-react/tree/main/Day-03)
+
+🌱 [Day 4 Notes](https://github.com/jwala-anirudh/namaste-react/tree/main/Day-04)
