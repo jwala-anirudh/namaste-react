@@ -1,0 +1,39 @@
+{
+  "name": "food-villa-namaste-react",
+  "version": "1.1.0",
+  "description": "This is a live course on namate react",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwala-anirudh/namaste-react.git"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "Anirudh Jwala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwala-anirudh/namaste-react/issues"
+  },
+  "homepage": "https://github.com/jwala-anirudh/namaste-react#readme",
+  "devDependencies": {
+    "@babel/core": "^7.20.7",
+    "babel-plugin-transform-remove-console": "^6.9.4",
+    "parcel": "^2.8.2",
+    "postcss": "^8.4.21",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.2.4"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.7.0"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
