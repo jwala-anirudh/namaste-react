@@ -1,0 +1,9 @@
+{
+  "plugins": [
+    ["transform-remove-console", { "exclude": ["error", "warn", "log"] }]
+  ],
+  "presets": [
+    ["@babel/preset-env", { "targets": { "node": "current" } }],
+    ["@babel/react", { "runtime": "automatic" }]
+  ]
+}
