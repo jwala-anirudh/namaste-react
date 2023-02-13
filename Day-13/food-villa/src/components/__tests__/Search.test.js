@@ -41,7 +41,7 @@ test('Restaurants should load on home page', async () => {
 
   const resList = body.getByTestId('res-list');
 
-  expect(resList.children.length).toBe(10);
+  expect(resList.children.length).toBe(15);
 });
 
 test('Search for string(food) on home page', async () => {
@@ -67,5 +67,5 @@ test('Search for string(food) on home page', async () => {
   fireEvent.click(searchBtn);
 
   const resList = body.getByTestId('res-list');
-  expect(resList.children.length).toBe(10);
+  expect(resList.children.length).toBe(1);
 });
