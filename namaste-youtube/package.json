@@ -38,5 +38,8 @@
   "author": {
     "name": "Anirudh Jwala",
     "email": "anirudhjwala@gmail.com"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.2.7"
   }
 }
